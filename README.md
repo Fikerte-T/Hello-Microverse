@@ -1,35 +1,33 @@
 # Hello-Microverse
-The purpose of this project is to practice the activities learned sofar such as the Github flow rules, integrating linters to a project, adding .gitignore file and documenting projects in a professional way. 
+The purpose of this project is to practice the activities learned sofar such as the Github flow rules, integrating linters to a project, adding .gitignore file and documenting projects in a professional way.
 
 ## Built With
 - HTML, CSS
 - Githubflow, HTML&CSS Linter
 - .gitignore file
 
-## Live Demo
-[Live Demo](http://livedemo.com)
-
-## Getting Started
 ## Prerequisites
-## Setup
-## Install
-## Usage
-## Run tests
-## Deployment
+This project needs the following lessons to be completed from week 1, day 2 activities
+- Linters
+- Git& Github& Github Flow
+- Document your repo in a professional way
+
+
 ## Author
 👤 Fikerte Tesfaye
 - Github: [@Fikerte-T](https://github.com/Fikerte-T)
 - Twitter: [@tofikertesfaye](https://twitter.com/home)
 - Linkedin: [Linkedin](https://www.linkedin.com/in/fikerte-tesfaye-a68337216/)
 ## 🤝Contributing
-Contributions, issues, and feature requests are welcome!
+Any feature requests and contributions are welcome!!
 
-Feel free to check the [issues](https://github.com/Fikerte-T/Hello-Microverse/issues) page.
+Check the issues page [here](https://github.com/Fikerte-T/Hello-Microverse/issues).
 
 ## Show your support
-Give a ⭐️ if you like this project!
+Give a 👍 👍 if you approve this project!
 
 ## Acknowledgments
 - Learning group
 
 ## 📝License
+[MIT](https://github.com/Fikerte-T/Hello-Microverse/blob/main/LICENSE) Licensed.
